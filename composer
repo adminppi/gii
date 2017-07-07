@@ -1,0 +1,7 @@
+{
+    "name": "adminppi/gii",
+    "description": "Custom Gii for Yii2 Framework",
+    "require": {
+        "php": "^5.4 || ^7.0",
+    }
+}
